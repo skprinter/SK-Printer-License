@@ -1,14 +1,14 @@
 {
   "version": "2.1",
-  "status": "DISABLE",
-  "message": "Welcome to SK Printer",
   "latest_version": "2.1",
   "download_url": "",
+  "message": "Welcome to SK Printer",
   "licenses": [
     {
       "license_key": "SKP-DEMO-001",
       "customer": "Demo",
-      "status": "DISABLE",
+      "machine_id": "346fb708e3e4c4f12963f3c0e0d2e74b4508e172c44c690da3bf6e8cc174a104",
+      "status": "ACTIVE",
       "expiry": "2027-12-31"
     }
   ]
