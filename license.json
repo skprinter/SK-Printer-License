@@ -8,7 +8,7 @@
     {
       "license_key": "SKP-DEMO-001",
       "customer": "Demo",
-      "status": "ACTIVE",
+      "status": "DISABLE",
       "expiry": "2027-12-31"
     }
   ]
