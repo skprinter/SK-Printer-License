@@ -1,0 +1,15 @@
+{
+  "version": "2.1",
+  "status": "ACTIVE",
+  "message": "Welcome to SK Printer",
+  "latest_version": "2.1",
+  "download_url": "",
+  "licenses": [
+    {
+      "license_key": "SKP-DEMO-001",
+      "customer": "Demo",
+      "status": "ACTIVE",
+      "expiry": "2027-12-31"
+    }
+  ]
+}
